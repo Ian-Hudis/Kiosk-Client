@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Events>
+<EventList>
+<Event>
+<Name Variable="Application_HMIdata_input:ScreenSelect" EnableVariable="" Condition="3" Value="1" Enable="1" RunAtServer="1">LockscreenActive</Name>
+<Commands n0="&lt;CommandType synoptic=&quot;LockScreen&quot; action=&quot;0&quot; monitor=&quot;0&quot; parameter=&quot;&quot; x=&quot;100&quot; y=&quot;100&quot; width=&quot;0&quot; height=&quot;0&quot; Caption=&quot;1&quot; Border=&quot;1&quot; Resizeable=&quot;0&quot; SysMenu=&quot;0&quot; MinimizeBox=&quot;0&quot; MaximizeBox=&quot;0&quot; KeepPrintProportions=&quot;0&quot; PageW=&quot;-1&quot; PageH=&quot;-1&quot; LMargin=&quot;-1&quot; RMargin=&quot;-1&quot; TMargin=&quot;-1&quot; BMargin=&quot;-1&quot; NoOverwrite=&quot;0&quot; AlwaysOnTop=&quot;0&quot;&gt;Synoptic&lt;/CommandType&gt;
+"/>
+</Event>
+<Event>
+<Name Variable="Application_HMIdata_input:ScreenSelect" EnableVariable="" Condition="3" Value="0" Enable="1" RunAtServer="1">LockScreenDeactive</Name>
+<Commands n0="&lt;CommandType synoptic=&quot;Main&quot; action=&quot;0&quot; monitor=&quot;0&quot; parameter=&quot;&quot; x=&quot;100&quot; y=&quot;100&quot; width=&quot;0&quot; height=&quot;0&quot; Caption=&quot;1&quot; Border=&quot;1&quot; Resizeable=&quot;0&quot; SysMenu=&quot;0&quot; MinimizeBox=&quot;0&quot; MaximizeBox=&quot;0&quot; KeepPrintProportions=&quot;0&quot; PageW=&quot;-1&quot; PageH=&quot;-1&quot; LMargin=&quot;-1&quot; RMargin=&quot;-1&quot; TMargin=&quot;-1&quot; BMargin=&quot;-1&quot; NoOverwrite=&quot;0&quot; AlwaysOnTop=&quot;0&quot;&gt;Synoptic&lt;/CommandType&gt;
+"/>
+</Event>
+<Event>
+<Name Variable="Application_HMIdata_input:ScreenSelect" EnableVariable="" Condition="3" Value="2" Enable="1" RunAtServer="1">ChangeUser</Name>
+<Commands n0="&lt;CommandType synoptic=&quot;ChangeUser&quot; action=&quot;0&quot; monitor=&quot;0&quot; parameter=&quot;&quot; x=&quot;100&quot; y=&quot;100&quot; width=&quot;0&quot; height=&quot;0&quot; Caption=&quot;1&quot; Border=&quot;1&quot; Resizeable=&quot;0&quot; SysMenu=&quot;0&quot; MinimizeBox=&quot;0&quot; MaximizeBox=&quot;0&quot; KeepPrintProportions=&quot;0&quot; PageW=&quot;-1&quot; PageH=&quot;-1&quot; LMargin=&quot;-1&quot; RMargin=&quot;-1&quot; TMargin=&quot;-1&quot; BMargin=&quot;-1&quot; NoOverwrite=&quot;0&quot; AlwaysOnTop=&quot;1&quot;&gt;Synoptic&lt;/CommandType&gt;
+"/>
+</Event>
+<Event>
+<Name Variable="Application_HMIdata_input:ScreenSelect" EnableVariable="" Condition="3" Value="12" Enable="1" RunAtServer="1">ChangeUserH2</Name>
+<Commands n0="&lt;CommandType synoptic=&quot;ChangeUser2H&quot; action=&quot;0&quot; monitor=&quot;0&quot; parameter=&quot;&quot; x=&quot;100&quot; y=&quot;100&quot; width=&quot;0&quot; height=&quot;0&quot; Caption=&quot;1&quot; Border=&quot;1&quot; Resizeable=&quot;0&quot; SysMenu=&quot;0&quot; MinimizeBox=&quot;0&quot; MaximizeBox=&quot;0&quot; KeepPrintProportions=&quot;0&quot; PageW=&quot;-1&quot; PageH=&quot;-1&quot; LMargin=&quot;-1&quot; RMargin=&quot;-1&quot; TMargin=&quot;-1&quot; BMargin=&quot;-1&quot; NoOverwrite=&quot;0&quot; AlwaysOnTop=&quot;0&quot;&gt;Synoptic&lt;/CommandType&gt;
+"/>
+</Event>
+<Event>
+<Name Variable="Application_HMIdata_input:ScreenSelect" EnableVariable="" Condition="3" Value="11" Enable="1" RunAtServer="1">LockscreenActiveH2</Name>
+<Commands n0="&lt;CommandType synoptic=&quot;LockScreen2H&quot; action=&quot;0&quot; monitor=&quot;0&quot; parameter=&quot;&quot; x=&quot;100&quot; y=&quot;100&quot; width=&quot;0&quot; height=&quot;0&quot; Caption=&quot;1&quot; Border=&quot;1&quot; Resizeable=&quot;0&quot; SysMenu=&quot;0&quot; MinimizeBox=&quot;0&quot; MaximizeBox=&quot;0&quot; KeepPrintProportions=&quot;0&quot; PageW=&quot;-1&quot; PageH=&quot;-1&quot; LMargin=&quot;-1&quot; RMargin=&quot;-1&quot; TMargin=&quot;-1&quot; BMargin=&quot;-1&quot; NoOverwrite=&quot;0&quot; AlwaysOnTop=&quot;0&quot;&gt;Synoptic&lt;/CommandType&gt;
+"/>
+</Event>
+<Event>
+<Name Variable="Application_HMIdata_input:ScreenSelect" EnableVariable="" Condition="3" Value="10" Enable="1" RunAtServer="1">LockScreenDeactiveH2</Name>
+<Commands n0="&lt;CommandType synoptic=&quot;Main2H&quot; action=&quot;0&quot; monitor=&quot;0&quot; parameter=&quot;&quot; x=&quot;100&quot; y=&quot;100&quot; width=&quot;0&quot; height=&quot;0&quot; Caption=&quot;1&quot; Border=&quot;1&quot; Resizeable=&quot;0&quot; SysMenu=&quot;0&quot; MinimizeBox=&quot;0&quot; MaximizeBox=&quot;0&quot; KeepPrintProportions=&quot;0&quot; PageW=&quot;-1&quot; PageH=&quot;-1&quot; LMargin=&quot;-1&quot; RMargin=&quot;-1&quot; TMargin=&quot;-1&quot; BMargin=&quot;-1&quot; NoOverwrite=&quot;0&quot; AlwaysOnTop=&quot;0&quot;&gt;Synoptic&lt;/CommandType&gt;
+"/>
+</Event>
+<Event>
+<Name Variable="Application_HMIdata_input:ScreenSelect" EnableVariable="" Condition="3" Value="99" Enable="1" RunAtServer="1">MakingComment</Name>
+<Commands n0="&lt;CommandType synoptic=&quot;CommentPage&quot; action=&quot;0&quot; monitor=&quot;0&quot; parameter=&quot;&quot; x=&quot;100&quot; y=&quot;100&quot; width=&quot;0&quot; height=&quot;0&quot; Caption=&quot;1&quot; Border=&quot;1&quot; Resizeable=&quot;0&quot; SysMenu=&quot;0&quot; MinimizeBox=&quot;0&quot; MaximizeBox=&quot;0&quot; KeepPrintProportions=&quot;0&quot; PageW=&quot;-1&quot; PageH=&quot;-1&quot; LMargin=&quot;-1&quot; RMargin=&quot;-1&quot; TMargin=&quot;-1&quot; BMargin=&quot;-1&quot; NoOverwrite=&quot;0&quot; AlwaysOnTop=&quot;0&quot;&gt;Synoptic&lt;/CommandType&gt;
+"/>
+</Event>
+<Event>
+<Name Variable="Application_HMIdata_input:ScreenSelect" EnableVariable="" Condition="3" Value="98" Enable="1" RunAtServer="1">MakingCommentCategory</Name>
+<Commands n0="&lt;CommandType synoptic=&quot;CommentPage1&quot; action=&quot;0&quot; monitor=&quot;0&quot; parameter=&quot;&quot; x=&quot;100&quot; y=&quot;100&quot; width=&quot;0&quot; height=&quot;0&quot; Caption=&quot;1&quot; Border=&quot;1&quot; Resizeable=&quot;0&quot; SysMenu=&quot;0&quot; MinimizeBox=&quot;0&quot; MaximizeBox=&quot;0&quot; KeepPrintProportions=&quot;0&quot; PageW=&quot;-1&quot; PageH=&quot;-1&quot; LMargin=&quot;-1&quot; RMargin=&quot;-1&quot; TMargin=&quot;-1&quot; BMargin=&quot;-1&quot; NoOverwrite=&quot;0&quot; AlwaysOnTop=&quot;0&quot;&gt;Synoptic&lt;/CommandType&gt;
+"/>
+</Event>
+</EventList>
+</Events>

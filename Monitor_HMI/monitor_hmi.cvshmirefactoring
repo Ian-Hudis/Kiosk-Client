@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Refactoring>
+<ListRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_input:ModeText" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="1" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_input" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="1" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Default Structure" Var="Application_GVL_ToHMI" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="1" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Linked Text" Var="Application_HMIdata_input:ModeText" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="1" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Linked Text" Var="Application_HMIdata_input" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="1" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="EditBox-Display" Var="Application_GVL_ToHMI" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="2" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="Background Color" Var="Application_HMIdata_input:StatusColor" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="4" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="Background Color" Var="Application_HMIdata_input" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="4" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="EditBox-Display" Var="Application_HMIdata_input:StatusText" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="4" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="EditBox-Display" Var="Application_HMIdata_input" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="4" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_output:bLogOut" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="5" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_output" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="5" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="EditBox-Display" Var="Application_HMIdata_output:Operator" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="7" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="EditBox-Display" Var="Application_HMIdata_output" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="7" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="EditBox-Display" Var="Application_HMIdata_output:Supervisor" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="9" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="EditBox-Display" Var="Application_HMIdata_output" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="9" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="EditBox-Display" Var="Application_HMIdata_output:Prod_Order" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="12" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="EditBox-Display" Var="Application_HMIdata_output" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="12" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="EditBox-Display" Var="Application_HMIdata_output:Material" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="13" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="EditBox-Display" Var="Application_HMIdata_output" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="13" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="EditBox-Display" Var="Application_HMIdata_input:PartCount" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="16" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="EditBox-Display" Var="Application_HMIdata_input" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="16" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="EditBox-Display" Var="Application_HMIdata_input:PartCompletion" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="17" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="EditBox-Display" Var="Application_HMIdata_input" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="17" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_output:bRun" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="18" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_output" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="18" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Visible" Var="Application_GVL_ToHMI_IdleBit" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="18" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Command Button On Down 1" Var="Application_GVL_InputRegister_bready" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="19" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_output:bChangeMachineStatus" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="19" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_output" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="19" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Command on release 2" Var="Application_GVL_InputRegister_bready" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="19" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="92" Category="Check Box" szAction="Check Button" Var="Application_HMIdata_output:Unsched_Maint" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="20" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="92" Category="Check Box" szAction="Check Button" Var="Application_HMIdata_output" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="20" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="92" Category="Check Box" szAction="Visible" Var="Application_GVL_ToHMI_SqlExecuting" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="20" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="92" Category="Check Box" szAction="Check Button" Var="Application_HMIdata_output:NoJob" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="21" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="92" Category="Check Box" szAction="Check Button" Var="Application_HMIdata_output" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="21" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="92" Category="Check Box" szAction="Visible" Var="Application_GVL_ToHMI_SqlExecuting" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="21" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="92" Category="Check Box" szAction="Check Button" Var="Application_HMIdata_output:Sched_Maint" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="22" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="92" Category="Check Box" szAction="Check Button" Var="Application_HMIdata_output" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="22" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="92" Category="Check Box" szAction="Visible" Var="Application_GVL_ToHMI_SqlExecuting" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="22" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="92" Category="Check Box" szAction="Check Button" Var="Application_HMIdata_output:SETUP" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="25" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="92" Category="Check Box" szAction="Check Button" Var="Application_HMIdata_output" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="25" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="92" Category="Check Box" szAction="Visible" Var="Application_GVL_ToHMI_SqlExecuting" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="25" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_Hardware_OverRideStatus" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="26" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Default Structure" Var="Application_GVL_ToHMI" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="26" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Linked Text" Var="Application_GVL_ToHMI" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="26" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="EditBox-Display" Var="Application_HMIdata_input:MachID" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="27" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="97" Category="EditBox-Display" szAction="EditBox-Display" Var="Application_HMIdata_input" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="27" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_output:RB_Supervisor" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="28" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_output" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="28" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_output:RB_Operator" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="29" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_output" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="29" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_output:RB_Prod_Order" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="30" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_output" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="30" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_output:RB_Prod_Order" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="31" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_output" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="31" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_input:ModeText" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="36" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_input" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="36" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Visible" Var="Application_HMIdata_input:ModeColor" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="36" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Visible" Var="Application_HMIdata_input" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="36" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Default Structure" Var="Application_GVL_ToHMI" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="36" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Linked Text" Var="Application_HMIdata_input:ModeText" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="36" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Linked Text" Var="Application_HMIdata_input" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="36" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_input:ModeText" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="37" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_input" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="37" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Visible" Var="Application_HMIdata_input:ModeColor" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="37" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Visible" Var="Application_HMIdata_input" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="37" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Default Structure" Var="Application_GVL_ToHMI" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="37" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Linked Text" Var="Application_HMIdata_input:ModeText" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="37" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Linked Text" Var="Application_HMIdata_input" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="37" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_input:ModeText" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="38" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Check Button" Var="Application_HMIdata_input" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="38" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Visible" Var="Application_HMIdata_input:ModeColor" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="38" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Visible" Var="Application_HMIdata_input" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="38" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Default Structure" Var="Application_GVL_ToHMI" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="38" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Linked Text" Var="Application_HMIdata_input:ModeText" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="38" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="90" Category="Button" szAction="Linked Text" Var="Application_HMIdata_input" ScreenName="O:\PRODUCTION\ALL\AUTOMATION KN\PRODUCTION IH\BLACKBOXKIASK\MONITOR_HMI\RESOURCES\MONITOR_HMI\main.cvshmiscr" Index="38" Missing="0" OutOfScreenPosition="0" ShortScreenName="main" Reason="4294967295">RefactorScreenVar</type>
+</ChildRefactor>
+<ChildRefactor>
+<type ImageId="1" Name="monitor_hmi" Category="Startup Screen" Var="Project" ResourceName="o:\production\all\automation kn\production ih\blackboxkiask\monitor_hmi\resources\monitor_hmi\main.cvshmiscr" Index="0" Missing="0" ShortResourceName="Project">RefactorGenericResourceScreen</type>
+</ChildRefactor>
+</ListRefactor>
+</Refactoring>
