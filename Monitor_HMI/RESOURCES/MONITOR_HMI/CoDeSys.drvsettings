@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<DriverSettings>
+<GeneralSettings WaitTime="0" TimeOut="1000" SynchroStart="false" MinimumJobThreshold="2" DefRefreshTimeNotInUse="0" EnableCOMInterface="true" PollingTime="0" PollingTimeNotInUse="0" PriorityProtocolThread="1" BaseClassBuild="402" DriverVersion="184614960" AggregationLimit="0" DirectWriteIO="false" SetInUseStructureFields="false" SuspendTasksInError="true" szWinCEProtocolPriority="-1" ExpandGroup1="1"/>
+<Debug DebugWindow="false" MaxLogEntries="10000" LogFileName="" EnableLogFile="false" ExpandGroup2="0"/>
+<CoDeSysSettings DriverLicenceCode="" DisableFirstNotification="false" ExpandCoDeSysGroup1="0"/>
+<JobList/>
+<StationList>
+<Station>
+<Name MaxRetries="1" StateVariable="" ExpandGroup1="1">C6_HMI_LC_BASIC</Name>
+<CoDeSysStationSettings IPAddress="localhost" PLCAddress="IansHMI" Port="1200" PLCVersion="1" UpdateRate="100" Motorola="0" BufferSize="0" Login="1" Protocol="0" UseDirectReading="0" MaxVarPerCycle="50" BackupServerAddress="" BackupPLCAddress="" SwitchServerTimeout="10000" ExpandCoDeSysGroup1="0" ExpandCoDeSysGroup2="1" UserName="0f44e2de86a38359e638ba932e133b543195d9599e79cbf2ea7f89412507896b" Password="f8da62fac40ae2a21e9beba77416ec59b866c9f7717332a3deae04fa3f4fd1d1" EncryptedCommunication="false"/>
+</Station>
+</StationList>
+</DriverSettings>
