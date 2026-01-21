@@ -12,4 +12,5 @@ Machine not in use:
 Commenting System:
 <img width="592" height="826" alt="image" src="https://github.com/user-attachments/assets/5de94fcd-3a55-4876-b5c9-590962380c04" />
 
-
+Output from the Server:
+<img width="737" height="434" alt="image" src="https://github.com/user-attachments/assets/fbeb9022-4108-48fb-b706-ef2ef7c36999" />
